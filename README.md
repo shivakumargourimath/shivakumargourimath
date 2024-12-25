@@ -2,7 +2,7 @@
 Hi, I'm Shivakumar<br>AI/ML Enthusiast Passionate about exploring the fascinating world of Artificial Intelligence and Machine Learning.<br>Currently diving deep into Machine Learning, Data Science and related technologies.
 
 [![](https://visitcount.itsvg.in/api?id=shivakumargourimath&icon=0&color=0)](https://visitcount.itsvg.in)
----
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivakumar-gourimath/) 
 
