@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shivakumar<br>AI/ML Enthusiast Passionate about exploring the fascinating world of Artificial Intelligence and Machine Learning.<br>Currently diving deep into Machine Learning, Data Science and related technologies.
+Hi, I'm Shivakumar<br>AI/ML Enthusiast, Passionate about exploring the fascinating world of Artificial Intelligence and Machine Learning.<br>Currently diving deep into Machine Learning, Data Science and related technologies.
 
 [![](https://visitcount.itsvg.in/api?id=shivakumargourimath&icon=0&color=0)](https://visitcount.itsvg.in)
 
